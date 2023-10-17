@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "385069051572",
+    "project_id": "hasura-3f48e",
+    "storage_bucket": "hasura-3f48e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385069051572:android:b9e2e1e9cc3006e57371e1",
+        "android_client_info": {
+          "package_name": "com.example.barber_front"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_WTEqlPqDWYv9loBzO7sdhaPKqI8vJ_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385069051572:android:916003f8208da0257371e1",
+        "android_client_info": {
+          "package_name": "com.example.quickbuystore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_WTEqlPqDWYv9loBzO7sdhaPKqI8vJ_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
